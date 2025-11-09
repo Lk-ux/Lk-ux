@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lk-ux
+- 👋 Hi, I’m Lakshya Keshwani
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently pursuing Bachelor of Technology in Computer Science from Pranveer Singh Institute of Technology, Kanpur
 - 💞️ I’m looking to contribute to useful open-source projects
